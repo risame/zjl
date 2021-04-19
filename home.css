@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+#lapA{float:left; margin-left:54px; margin-top:15px}
+#lapA a{ color:#FFF; text-decoration:none; font-style:inherit; font-family:"微软雅黑"; display:block; line-height:30px}
+#lapA a:hover{ color:#069}
+#EndTitle a{ color:#000; text-decoration:none; padding-left:10px; padding-right:10px; font-size:16px; color:#FFF}
+#EndTitle a:hover{ text-decoration:underline}
+#detail a{color:#000; text-decoration:none;}
+#detail a:hover{ text-decoration:underline}
+#rollnews a{color:#000; text-decoration:none; margin-left:20px}
+#rollnews a:hover{ text-decoration:underline}
+#choose a{color:#900; text-decoration:none }
+#choose a:hover{ text-decoration:underline}
